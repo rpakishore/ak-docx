@@ -13,7 +13,8 @@ dynamic = ["version", "description"]
 dependencies = [
     "pytest>=7.2.1",
     "python-docx>=0.8.11",
-    "ak_file>=0.0.2"
+    "ak_file>=0.0.2",
+    "docx2txt>=0.8"
 ]
 
 [project.urls]
