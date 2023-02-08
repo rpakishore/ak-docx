@@ -17,7 +17,7 @@ class Word(File):
 
     def search_in_text(self, regex_str:str) -> re.Match:
         regex = re.compile(regex_str)
-        return regex.search(self.text())
+        return regex.search(self.text.replace('\n', ''))
 
     def __repr__(self):
         return f"Word(filepath=\"{self.filepath}\")"
