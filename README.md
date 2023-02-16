@@ -20,6 +20,8 @@
 [![tests](https://github.com/rpakishore/ak-docx/actions/workflows/test.yml/badge.svg)](https://github.com/rpakishore/ak-docx/actions/workflows/test.yml)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/rpakishore/ak-docx)
 ![GitHub last commit](https://img.shields.io/github/last-commit/rpakishore/ak-docx)
+
+![PyPI - Format](https://img.shields.io/pypi/format/ak_docx) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/ak_docx)
 <!-- Table of Contents -->
 <h2>Table of Contents</h2>
 
