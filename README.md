@@ -36,6 +36,7 @@
 
 <!-- About the Project -->
 ## 1. About the Project
+
 A base project to simplify `docx` file manipulation
 
 <!-- Features -->
@@ -52,6 +53,7 @@ A base project to simplify `docx` file manipulation
 ### 2.1. Prerequisites
 
 ### 2.2. Dependencies
+
 The repo comes pre-compiled with all dependencies.
 
 <!-- Installation -->
@@ -62,7 +64,7 @@ Install from pypi
 ```bash
 python -m venv .venv
 
-venv\Scripts\activate.bat
+.venv\Scripts\activate
 
 pip install ak_docx
 ```
@@ -75,6 +77,7 @@ pip install ak_docx
 
 <!-- License -->
 ## 4. License
+
 See LICENSE.txt for more information.
 
 <!-- Contact -->
@@ -84,13 +87,10 @@ Arun Kishore - [@rpakishore](mailto:pypi@rpakishore.co.in)
 
 Project Link: [https://github.com/rpakishore/ak-docx](https://github.com/rpakishore/ak-docx)
 
-
 <!-- Acknowledgments -->
 ## 6. Acknowledgements
 
-Use this section to mention useful resources and libraries that you have used in your projects.
-
- - [Awesome README Template](https://github.com/Louis3797/awesome-readme-template/blob/main/README-WITHOUT-EMOJI.md)
- - [Banner Maker](https://banner.godori.dev/)
- - [Shields.io](https://shields.io/)
- - [Carbon](https://carbon.now.sh/)
+- [Awesome README Template](https://github.com/Louis3797/awesome-readme-template/blob/main/README-WITHOUT-EMOJI.md)
+- [Banner Maker](https://banner.godori.dev/)
+- [Shields.io](https://shields.io/)
+- [Carbon](https://carbon.now.sh/)
